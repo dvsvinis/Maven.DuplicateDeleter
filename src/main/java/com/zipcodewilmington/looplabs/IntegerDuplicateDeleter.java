@@ -7,6 +7,7 @@ package com.zipcodewilmington.looplabs;
 public final class IntegerDuplicateDeleter extends DuplicateDeleter<Integer> {
 
     public IntegerDuplicateDeleter(Integer[] intArray) {
+
         super(intArray);
     }
 
